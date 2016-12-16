@@ -1,0 +1,14 @@
+{
+  "name": "mouseflow",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "keywords": [
+    "mouseflow"
+  ],
+  "author": "no7david@gmail.com",
+  "license": "ISC"
+}
